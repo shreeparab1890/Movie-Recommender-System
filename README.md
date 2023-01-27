@@ -1,5 +1,5 @@
 # Movie Recommender System
-This notebook is trying to build a model which will recommend the movie based on given movie and genre. In this we use Popularity Based Recommendation, Content Based Recommendation and Collaborative Filtering based Recommendation. 
+This notebook is trying to build a model which will recommend the movie based on similar movie and genre. In this we use Popularity Based Recommendation, Content Based Recommendation and Collaborative Filtering based Recommendation. 
 The dataset is taken from <a href="https://www.kaggle.com/datasets/sunayanagawde/tmdb-popular-10000-movies-dataset">Kaggle: TMDB Popular 10000 Movies Dataset</a> which is compiled by using the api of TMDB. 
 You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnaparab/movie-recommender-system">Kaggle</a>  
 
